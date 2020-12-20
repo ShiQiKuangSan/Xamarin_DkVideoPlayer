@@ -1,0 +1,10 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/.idea/.idea.DkVideoPlayer
+/DkVideoPlayer/bin
+/DkVideoPlayer/obj
+/DkVideoPlayer.So/bin
+/DkVideoPlayer.So/obj
